@@ -1,0 +1,58 @@
+Sample name,Lat,Long,Ancient/Modern,C14_cal_median (BEFORE PRESENT WHAT?),Date start,Date end,Source,BP (1950) from SPAAM dir
+I5884,48.91,33.76,Ancient,4743,4646,4840,SPAAM dir,4200
+VLI092,50.373,14.449,Ancient,4725.5,,,SPAAM dir,4200
+KNK001,45.825,41.582,Ancient,4706,,,SPAAM dir,4200
+GRS004,51.189,12.267,Ancient,4662,,,SPAAM dir,4100
+HOP001,50.08,14.281,Ancient,4278.5,,,SPAAM dir,3800
+HOP004,50.08,14.281,Ancient,4250,,,SPAAM dir,3800
+KLZ001,44.848,42.219,Ancient,4167,,,SPAAM dir,3800
+CHC004,50.796,17.094,Ancient,3979,,,SPAAM dir,3600
+KLE031,48.218,10.846,Ancient,3839.5,,,SPAAM dir,3500
+MIB054,49.992,15.777,Ancient,3814.5,,,SPAAM dir,3600
+KLE048,48.218,10.846,Ancient,3702,,,SPAAM dir,3400
+OOH003,48.233,10.861,Ancient,3516.5,,,SPAAM dir,3300
+I2470,42.573,-2.621,Ancient,3271,,,SPAAM dir,3100
+ARS007,49.65,99.72,Ancient,3147,,,SPAAM dir,3000
+KZL002,48.278,75.356,Ancient,2596.5,,,SPAAM dir,2500
+VEL003,49.178,16.848,Ancient,4406.5,,,SPAAM dir,4000
+GRH001,45.063,41.54,Ancient,2805,,,SPAAM dir,2700
+OBS124,43.3,5.36,Ancient,284,283,285,LNBAplague/Data/2020-07-09_LNBA_leprosy_enterica_comp/2ndPandemic_transect/Metadata_2ndpandemic_all.csv at main · aidaanva/LNBAplague (github.com),200
+OBS107,43.3,5.36,Ancient,284,283,285,LNBAplague/Data/2020-07-09_LNBA_leprosy_enterica_comp/2ndPandemic_transect/Metadata_2ndpandemic_all.csv at main · aidaanva/LNBAplague (github.com),200
+OBS116,43.3,5.36,Ancient,284,283,285,LNBAplague/Data/2020-07-09_LNBA_leprosy_enterica_comp/2ndPandemic_transect/Metadata_2ndpandemic_all.csv at main · aidaanva/LNBAplague (github.com),200
+OBS137,43.3,5.36,Ancient,284,283,285,LNBAplague/Data/2020-07-09_LNBA_leprosy_enterica_comp/2ndPandemic_transect/Metadata_2ndpandemic_all.csv at main · aidaanva/LNBAplague (github.com),200
+OBS110,43.3,5.36,Ancient,284,283,285,LNBAplague/Data/2020-07-09_LNBA_leprosy_enterica_comp/2ndPandemic_transect/Metadata_2ndpandemic_all.csv at main · aidaanva/LNBAplague (github.com),200
+BED028,51.51,-0.08,Ancient,408,370,445,LNBAplague/Data/2020-07-09_LNBA_leprosy_enterica_comp/2ndPandemic_transect/Metadata_2ndpandemic_all.csv at main · aidaanva/LNBAplague (github.com),400
+NMS002,52.2,0.11,Ancient,500,469,530,LNBAplague/Data/2020-07-09_LNBA_leprosy_enterica_comp/2ndPandemic_transect/Metadata_2ndpandemic_all.csv at main · aidaanva/LNBAplague (github.com),400
+BED030,51.51,-0.08,Ancient,408,370,445,LNBAplague/Data/2020-07-09_LNBA_leprosy_enterica_comp/2ndPandemic_transect/Metadata_2ndpandemic_all.csv at main · aidaanva/LNBAplague (github.com),400
+BED024,51.51,-0.08,Ancient,408,370,445,LNBAplague/Data/2020-07-09_LNBA_leprosy_enterica_comp/2ndPandemic_transect/Metadata_2ndpandemic_all.csv at main · aidaanva/LNBAplague (github.com),400
+STN020,46.95,8.36,Ancient,445,370,520,LNBAplague/Data/2020-07-09_LNBA_leprosy_enterica_comp/2ndPandemic_transect/Metadata_2ndpandemic_all.csv at main · aidaanva/LNBAplague (github.com),400
+STN021,46.95,8.36,Ancient,445,370,520,LNBAplague/Data/2020-07-09_LNBA_leprosy_enterica_comp/2ndPandemic_transect/Metadata_2ndpandemic_all.csv at main · aidaanva/LNBAplague (github.com),400
+STA001,47.99,11.33,Ancient,527,482,572,LNBAplague/Data/2020-07-09_LNBA_leprosy_enterica_comp/2ndPandemic_transect/Metadata_2ndpandemic_all.csv at main · aidaanva/LNBAplague (github.com),400
+LAI009,55.39,49.54,Ancient,655,605,705,LNBAplague/Data/2020-07-09_LNBA_leprosy_enterica_comp/2ndPandemic_transect/Metadata_2ndpandemic_all.csv at main · aidaanva/LNBAplague (github.com),600
+BED034,51.51,-0.08,Ancient,408,370,445,https://github.com/aidaanva/LNBAplague/blob/main/Data/2020-07-09_LNBA_leprosy_enterica_comp/2ndPandemic_transect/Metadata_2ndpandemic_all.csv,400
+STN014,46.95,8.36,Ancient,445,370,520,LNBAplague/Data/2020-07-09_LNBA_leprosy_enterica_comp/2ndPandemic_transect/Metadata_2ndpandemic_all.csv at main · aidaanva/LNBAplague (github.com),400
+BRA001,52.41,12.53,Ancient,372,357,387,LNBAplague/Data/2020-07-09_LNBA_leprosy_enterica_comp/2ndPandemic_transect/Metadata_2ndpandemic_all.csv at main · aidaanva/LNBAplague (github.com),300
+STN008,46.95,8.36,Ancient,445,370,520,LNBAplague/Data/2020-07-09_LNBA_leprosy_enterica_comp/2ndPandemic_transect/Metadata_2ndpandemic_all.csv at main · aidaanva/LNBAplague (github.com),400
+STN007,46.95,8.36,Ancient,445,370,520,LNBAplague/Data/2020-07-09_LNBA_leprosy_enterica_comp/2ndPandemic_transect/Metadata_2ndpandemic_all.csv at main · aidaanva/LNBAplague (github.com),400
+MAN008,48.7,11.47,Ancient,669,615,722,LNBAplague/Data/2020-07-09_LNBA_leprosy_enterica_comp/2ndPandemic_transect/Metadata_2ndpandemic_all.csv at main · aidaanva/LNBAplague (github.com),600
+London_BD,51.5,-0.06,Ancient,656,655,657,LNBAplague/Data/2020-07-09_LNBA_leprosy_enterica_comp/2ndPandemic_transect/Metadata_2ndpandemic_all.csv at main · aidaanva/LNBAplague (github.com),600
+Gok2,58.173,13.407,Ancient,,,,SPAAM dir,4400
+RV2039,47.23,39.68,Ancient,,,,SPAAM dir,5200
+RISE509,54.584,90.775,Ancient,,,,SPAAM dir,4200
+RISE505,53.456,85.447,Ancient,,,,SPAAM dir,3400
+Barcelona_3031,41.38,2.17,Ancient,645,585,705,SPAAM dir,600
+GEN72,45.77,18.61,Ancient,,,,SPAAM dir,4200
+Gyvakarai1,55.913,24.89,Ancient,,,,SPAAM dir,4000
+6Post,48.308,10.891,Ancient,,,,SPAAM dir,3600
+1343UnTal85,48.318,10.891,Ancient,,,,SPAAM dir,3800
+RK1001,45.569,41.03,Ancient,,,,SPAAM dir,4200
+KunilaII,58.616,23.796,Ancient,,,,SPAAM dir,4000
+RT5,53.2,50.2,Ancient,,,,SPAAM dir,3500
+GZL001,52.279,104.251,Ancient,,,,SPAAM dir,4600
+GZL002,52.279,104.251,Ancient,,,,SPAAM dir,4400
+Bolgar_2370,54.967,49.034,Ancient,,,,SPAAM dir,600
+AE1175,48.287,11.903,Ancient,,,,SPAAM dir,1500
+STN019.A0101,46.956,8.365,Ancient,,,,SPAAM dir,400
+STN002.A0101,46.956,8.365,Ancient,,,,SPAAM dir,400
+Ellwangen 549_O,48.962,10.131,Ancient,,,,SPAAM dir,400
+EDI001.A,52.136,-0.011,Ancient,,,,SPAAM dir,1500
